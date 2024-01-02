@@ -1,0 +1,25 @@
+/* Home.css */
+
+.navigation-column {
+    background-color: #fafafa; /* Set your desired background color */
+    padding: 15px;
+    height: 100vh;
+  }
+  
+  .posts-column {
+    padding: 15px;
+  }
+  
+  .post-icons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  .home-title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  /* Add more styles as needed */
+  
